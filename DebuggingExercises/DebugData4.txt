@@ -1,4 +1,3 @@
-steak,20
-lobster,30
-macaroni,8
-spaghetti,10
+Shrimp,21
+Caviar,15
+Rib eye,40
